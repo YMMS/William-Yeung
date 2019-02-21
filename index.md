@@ -4,6 +4,8 @@ I'am a Chinese programmer of Python. My domain is Natural Language Processing an
 
 ### Knownledge
 
++ [Good-Turing Estimate](./Theory/GoodTuringEstimate.md)
+
 ### Practice
 
 ### Tools
