@@ -1,3 +1,7 @@
+<script type="text/javascript"
+src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
 ## Welcome to William-Yeung's GitHub Pages
 
 I'am a Chinese programmer of Python. My domain is Natural Language Processing and Deep Learning. This GitHub Pages will record knownledge, practice, tools and logic. You can see my GitHub for attachment of different pages. Thanks for your reading and comments.
